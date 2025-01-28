@@ -1,0 +1,1112 @@
+29/07/2024, 18:25 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+29/08/2023, 10:09 - Harjinder GNA Singh created group "Web technology -5A"
+29/07/2024, 18:25 - You joined a group via invite in the community: Unofficial Btech CSE
+30/07/2024, 14:50 - +91 81980 94612: <Media omitted>
+30/07/2024, 14:50 - +91 81980 94612: <Media omitted>
+31/07/2024, 07:59 - +91 81980 94612: Good morning 
+Please Don't  sit in 210 lab during my lecture due to daily lecture checking process
+31/07/2024, 08:00 - +91 94172 96229: Ok mam
+31/07/2024, 08:24 - +91 75893 82319: Ok mam
+31/07/2024, 11:51 - ~ ~ added ~ ♥️♥️
+02/08/2024, 15:43 - +91 81980 94612: <Media omitted>
+02/08/2024, 15:43 - +91 81980 94612: <Media omitted>
+02/08/2024, 15:43 - +91 81980 94612: <Media omitted>
+02/08/2024, 15:43 - +91 81980 94612: <Media omitted>
+02/08/2024, 15:43 - +91 81980 94612: <Media omitted>
+02/08/2024, 15:44 - +91 81980 94612: <Media omitted>
+02/08/2024, 15:44 - +91 81980 94612: <Media omitted>
+02/08/2024, 15:44 - +91 81980 94612: <Media omitted>
+02/08/2024, 15:44 - +91 81980 94612: <Media omitted>
+02/08/2024, 15:44 - +91 81980 94612: <Media omitted>
+02/08/2024, 15:45 - +91 81980 94612: <Media omitted>
+05/08/2024, 09:12 - +91 81980 94612: <Media omitted>
+05/08/2024, 09:12 - +91 81980 94612: <Media omitted>
+05/08/2024, 09:12 - +91 81980 94612: <Media omitted>
+05/08/2024, 09:13 - +91 81980 94612: <Media omitted>
+09/08/2024, 15:34 - +91 81980 94612: <Media omitted>
+09/08/2024, 15:34 - +91 81980 94612: <Media omitted>
+09/08/2024, 15:34 - +91 81980 94612: <Media omitted>
+09/08/2024, 15:34 - +91 81980 94612: <Media omitted>
+09/08/2024, 15:35 - +91 81980 94612: <Media omitted>
+12/08/2024, 09:31 - Harjinder GNA Singh: .
+20/08/2024, 14:44 - +91 98155 36671: <Media omitted>
+20/08/2024, 14:44 - +91 98155 36671: <Media omitted>
+20/08/2024, 14:44 - +91 98155 36671: block and inline elements
+20/08/2024, 18:53 - Harjinder GNA Singh: This message was deleted
+21/08/2024, 09:32 - +91 81980 94612: <Media omitted>
+21/08/2024, 09:33 - +91 81980 94612: <Media omitted>
+21/08/2024, 09:33 - +91 81980 94612: <Media omitted>
+22/08/2024, 09:32 - Harjinder GNA Singh: https://forms.gle/cvYqDFcG7DWV4bW69
+28/08/2024, 09:53 - Himachal GNA: .
+28/08/2024, 09:53 - +91 81980 94612: <!DOCTYPE html>
+<html>
+    <body>
+        <h1>java operators</h1>
+        <h2>the Assignment (=) operators</h2>
+        <p id="demo"></p> 
+        <script>
+            //Asign the value 5 t0 x
+            let x=15;
+            //Assign the value 2 to y
+            let y=2;
+            //Assign the value x+y to z 
+            let z=x+y;
+            //Display z
+            document.getElementById("demo").innerHTML="the sum of x+y is:"+z;
+
+        </script>
+    </body>
+</html>
+28/08/2024, 09:54 - +91 81980 94612: <!DOCTYPE html>
+<html>
+    <body>
+        <h1>Operators</h1>
+        <h2>The=opearator</h2>
+        <p id="demo"></p>
+        <script>
+            let x=30;
+            document.getElementById("demo").innerHTML=x;
+        </script>
+    </body>
+</html>
+29/08/2024, 09:53 - +91 81980 94612: <!DOCTYPE html>
+<html>
+    <body>
+        <h1>java variables</h1>
+        <p>example x,y,z</p>
+        <p id="demo"></p>
+            <script>
+                const x=5;
+                const y=6;
+                const z=x*y;
+                document.getElementById("demo").innerHTML="The value of x is"+z;
+            </script>
+</body>
+</html>
+30/08/2024, 15:46 - +91 81980 94612: <Media omitted>
+30/08/2024, 15:47 - +91 81980 94612: <!DOCTYPE html>
+<html>
+    <body>
+        <h1>java variables</h1>
+        <p>example x,y,z</p>
+        <p id="demo"></p>
+            <script>
+                const x=5;
+                const y=6;
+                const z=x-y;
+                document.getElementById("demo").innerHTML="The value of x is"+z;
+            </script>
+</body>
+</html>
+30/08/2024, 15:47 - +91 81980 94612: <!DOCTYPE html>
+<html>
+    <body>
+        <h1> web page</h1>
+        <p>our paragraph</p>
+        <script>
+            document.write(5+6);
+            
+        </script>
+    </body>
+</html>
+30/08/2024, 15:47 - +91 81980 94612: <html>
+    <body>
+        <h1> web page</h1>
+        <p>our paragraph</p>
+       <button type="button"onclick="document.write(5+6)
+       ">try it</button>"
+    </button>
+    </body>
+</html>
+02/09/2024, 10:15 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+<h1> Variables</h1>
+
+<p> x, y, and z are variables.</p>
+
+<p id="demo"></p>
+
+<script>
+var x = 5;
+var y = 6;
+var z = x + y;
+document.getElementById("demo").innerHTML =
+"The value of z is: " + z;
+</script>
+
+</body>
+</html>
+02/09/2024, 10:17 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+<h1> Variables</h1>
+
+<p> x, y, and z are variables.</p>
+
+<p id="demo"></p>
+
+<script>
+var x = 5;
+var y = 6;
+var z = x + y;
+document.getElementById("demo").innerHTML =
+"The value of z is: " + z;
+</script>
+
+</body>
+</html>
+02/09/2024, 10:19 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+<h1> Variables</h1>
+
+<p> x, y, and z are variables.</p>
+
+<p id="demo"></p>
+
+<script>
+let x = 5;
+let y = 6;
+let z = x + y;
+document.getElementById("demo").innerHTML =
+"The value of z is: " + z;
+</script>
+
+</body>
+</html>
+02/09/2024, 10:20 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+<h1>Variables</h1>
+
+<p> x, y, and z are variables.</p>
+
+<p id="demo"></p>
+
+<script>
+const x = 5;
+const y = 6;
+const z = x + y;
+document.getElementById("demo").innerHTML =
+"The value of z is: " + z;
+</script>
+
+</body>
+</html>
+02/09/2024, 10:21 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Variables</h1>
+
+<p> price1, price2, and total are variables.</p>
+
+<p id="demo"></p>
+
+<script>
+const price1 = 5;
+const price2 = 6;
+let total = price1 + price2;
+document.getElementById("demo").innerHTML =
+"The total is: " + total;
+</script>
+
+</body>
+</html>
+02/09/2024, 10:40 - Harjinder GNA Singh added ~ Satyam Lath
+03/09/2024, 14:51 - +91 81980 94612: <!DOCTYPE html>
+<html>
+    <body>
+        <h1>Actual working<h1>
+            <p id="demo">Amarjit.<p>
+                <button type="button"onclick='document.getElementById("demo").innerHTML="Patel"'>Clickme</button>
+            </body>
+            </html>
+03/09/2024, 14:51 - +91 81980 94612: <! DOCTYPE html>
+<html>
+    <body>
+        <h1>Java Script</h1>
+        <button type ="button"onclick="document.getElementById('demo').innerHTML=Date()">Date And Time</button>
+<p id="demo"></p>
+    </body>
+</html>
+03/09/2024, 22:08 - +91 99153 79548 joined from the community
+04/09/2024, 09:17 - Mansoor CSE: This message was deleted
+06/09/2024, 15:44 - +91 81980 94612: Dear all,kindly upload  mongo Db certificates..... <This message was edited>
+09/09/2024, 09:35 - +91 81980 94612: <!DOCTYPE html>
+</html>
+<html>
+<body>
+
+<h2> CSE </h2>
+
+<p id="demo">5TH A <div class=""></div></p>
+
+<button type="button" onclick="document.getElementById('demo').style.display='none'">Click Me!</button>
+
+
+</body>
+09/09/2024, 09:35 - +91 81980 94612: Block elements
+09/09/2024, 09:35 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript </h2>
+
+<p>5th A</p>
+<p id="demo" style="display:none">CSE </p>
+
+<button type="button" onclick="document.getElementById('demo').style.display='block'">Click Me!</button>
+
+</body>
+</html>
+09/09/2024, 09:35 - +91 81980 94612: how to show element
+10/09/2024, 14:52 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2> External </h2>
+
+<p id="demo">Liaquat.</p>
+
+<button type="button" onclick="myFunction()">Try it</button>
+
+<p>204 Classroom.</p>
+<p>CR-Liaquat jot and Harjinder</p>
+
+<script src="ex.js"></script>
+
+</body>
+</html>
+10/09/2024, 14:52 - +91 81980 94612: function myFunction() {
+    document.getElementById("demo").innerHTML = "CSE A";
+  }
+10/09/2024, 15:19 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h1> Arithmetic</h1>
+<h2> + Operator</h2>
+
+<p id="demo"></p>
+
+<script>
+let x = 5;
+let y = 2;
+let z = x + y;
+document.getElementById("demo").innerHTML = z;
+</script>
+
+</body>
+</html>
+10/09/2024, 15:19 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h1> Arithmetic</h1>
+<h2>The * Operator</h2>
+
+<p id="demo"></p>
+
+<script>
+let x = 15;
+let y = 2;
+let z = x * y;
+document.getElementById("demo").innerHTML = z;
+</script>
+
+</body>
+</html>
+14/09/2024, 17:24 - +91 73474 24648: <Media omitted>
+16/09/2024, 09:25 - +91 81980 94612: <! DOCTYPE html>
+<html>
+    <body>
+        <h1>Java Script</h1>
+        <button type ="button"onclick="document.getElementById('demo').innerHTML=Date()">Date And Time</button>
+<p id="demo"></p>
+    </body>
+</html>
+16/09/2024, 09:26 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Extra Working</h1>
+
+<p>Change attribute values.</p>
+
+<p>In this case.</p>
+
+<button onclick="document.getElementById('myImage').src='Bulb'">Turn on the light</button>
+
+<img id="myImage" src="Bulb2.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='Bulb.gif'">Turn off the light</button>
+
+</body>
+</html>
+16/09/2024, 09:27 - +91 81980 94612: BMI CALCULATOR
+16/09/2024, 09:27 - +91 81980 94612: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI Calculator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            max-width: 400px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        input, button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>BMI Calculator</h2>
+        <label for="height">Height (meters):</label>
+        <input type="number" id="height" placeholder="Enter your height" step="0.01">
+        
+        <label for="weight">Weight (kg):</label>
+        <input type="number" id="weight" placeholder="Enter your weight" step="0.1">
+        
+        <button onclick="calculateBMI()">Calculate BMI</button>
+
+        <h3 id="result"></h3>
+    </div>
+
+    <script>
+        function calculateBMI() {
+            const height = parseFloat(document.getElementById("height").value);
+            const weight = parseFloat(document.getElementById("weight").value);
+            
+            if (!height || !weight) {
+                document.getElementById("result").innerHTML = "Please enter valid height and weight.";
+                return;
+            }
+            
+            const bmi = weight / (height * height);
+            let category = "";
+
+            if (bmi < 18.5) {
+                category = "Underweight";
+            } else if (bmi >= 18.5 && bmi < 24.9) {
+                category = "Normal weight";
+            } else if (bmi >= 25 && bmi < 29.9) {
+                category = "Overweight";
+            } else {
+                category = "Obesity";
+            }
+
+            document.getElementById("result").innerHTML = `Your BMI is ${bmi.toFixed(2)} (${category})`;
+        }
+    </script>
+</body>
+</html>
+16/09/2024, 09:27 - +91 81980 94612: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Pizza</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            max-width: 400px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        select, input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 20px;
+        }
+        .submit-btn {
+            background-color: #28a745;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .submit-btn:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Order Your Pizza</h1>
+
+    <form id="pizzaOrderForm">
+        <label for="pizzaSize">Select Size:</label>
+        <select id="pizzaSize" required>
+            <option value="small">Small</option>
+            <option value="medium">Medium</option>
+            <option value="large">Large</option>
+        </select>
+
+        <label for="pizzaTopping">Select Toppings:</label>
+        <select id="pizzaTopping" multiple required>
+            <option value="cheese">Cheese</option>
+            <option value="pepperoni">Pepperoni</option>
+            <option value="mushroom">Mushroom</option>
+            <option value="onion">Onion</option>
+        </select>
+
+        <label for="pizzaQuantity">Number of Pizzas:</label>
+        <input type="number" id="pizzaQuantity" value="1" min="1" required>
+
+        <button type="button" class="submit-btn" onclick="submitOrder()">Order Now</button>
+    </form>
+
+    <h2 id="orderSummary"></h2>
+
+    <script>
+        function submitOrder() {
+            // Get values from the form
+            const size = document.getElementById('pizzaSize').value;
+            const toppings = Array.from(document.getElementById('pizzaTopping').selectedOptions).map(option => option.text);
+            const quantity = document.getElementById('pizzaQuantity').value;
+
+            // Prepare order summary
+            const summary = `You have ordered ${quantity} ${size} pizza(s) with the following toppings: ${toppings.join(', ')}`;
+
+            // Display the order summary
+            document.getElementById('orderSummary').innerText = summary;
+        }
+    </script>
+
+</body>
+</html>
+16/09/2024, 09:28 - +91 81980 94612: PIZZA ORDER
+16/09/2024, 09:28 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2>Our Question</h2>
+
+<p>Query</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello Sameer";
+</script>
+
+</body>
+</html>
+16/09/2024, 10:45 - +91 81980 94612: <Media omitted>
+18/09/2024, 09:26 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2>Statements 1</h2>
+
+<p>Blocks are written between { and }</p>
+
+<button type="button" onclick="myFunction()">Click Me!</button>
+
+<p id="demo1"></p>
+<p id="demo2"></p>
+
+<script>
+function myFunction() {
+  document.getElementById("demo1").innerHTML = "Hello Class!";
+  document.getElementById("demo2").innerHTML = "How are you?";
+}
+</script>
+
+</body>
+</html>
+18/09/2024, 09:26 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2>Statements</h2>
+
+<p>A <b>Program</b> is a list of <b>statements</b> to be executed by a computer.</p>
+
+<p id="demo"></p>
+
+<script>
+let x, y, z;  // Statement 1
+x = 7;        // Statement 2
+y = 6;        // Statement 3
+z = x + y;    // Statement 4
+
+document.getElementById("demo").innerHTML =
+"The value of z is * + z + *".";  
+</script>
+
+</body>
+</html>
+18/09/2024, 09:29 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2>Statements</h2>
+
+<p>A <b>Program</b> is a list of <b>statements</b> to be executed by a computer.</p>
+
+<p id="demo"></p>
+
+<script>
+let x, y, z;  // Statement 1
+x = 7;        // Statement 2
+y = 6;        // Statement 3
+z = x + y;    // Statement 4
+
+document.getElementById("demo").innerHTML =
+"The value of z is * + z + *".";  
+</script>
+
+</body>
+</html>
+18/09/2024, 09:30 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2>if .. else</h2>
+
+<p>A time-based greeting:</p>
+
+<p id="demo"></p>
+
+<script>
+const hour = new Date().getHours(); 
+let greeting;
+
+if (hour < 1) {
+  greeting = "Good day";
+} else {
+  greeting = "Have a good day";
+}
+
+document.getElementById("demo").innerHTML = greeting;
+</script>
+
+</body>
+</html>
+18/09/2024, 09:30 - +91 81980 94612: if else condition
+18/09/2024, 09:31 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2> if .. else</h2>
+
+<p>A time-based greeting:</p>
+
+<p id="demo"></p>
+
+<script>
+const time = new Date().getHours();
+let greeting;
+if (time < 10) {
+  greeting = "Good morning";
+} else if (time > 20) {
+  greeting = "Good day";
+} else {
+  greeting = "Good evening";
+}
+document.getElementById("demo").innerHTML = greeting;
+</script>
+
+</body>
+</html>
+18/09/2024, 09:31 - +91 81980 94612: else if else
+18/09/2024, 09:32 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript if</h2>
+
+<p>Display "Good day!" if the hour is less than 18:00:</p>
+
+<p id="demo">Good Evening!</p>
+
+<script>
+if (new Date().getHours() < 18) {
+  document.getElementById("demo").innerHTML = "Good day!";
+}
+</script>
+
+</body>
+</html>
+18/09/2024, 09:32 - +91 81980 94612: simple if else
+18/09/2024, 13:06 - +91 81980 94612: <Media omitted>
+18/09/2024, 13:07 - +91 81980 94612: these students update mongo db status
+19/09/2024, 10:04 - Rahul A CSE: Mam Maine MongaDB mein raj.saab2002@gmail.com yah wali email Dali thi but mere current email yah hai rahul.chauhan5869@gmail.com
+20/09/2024, 07:51 - +91 81980 94612: Good morning
+20/09/2024, 07:51 - +91 81980 94612: I am on leave
+20/09/2024, 07:52 - +91 81980 94612: 3.00-4.00 lecture .....Don't sit in class during my lecture
+20/09/2024, 07:52 - +91 77173 83414: Ok ma'am
+20/09/2024, 08:01 - +91 94172 96229: Good Morning Mam
+20/09/2024, 09:15 - +91 75893 82319: This message was deleted
+23/09/2024, 09:09 - +91 81980 94612: <Media omitted>
+23/09/2024, 09:11 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript Functions</h1>
+
+<p>Invoke (call) a function to convert from Fahrenheit to Celsius:</p>
+<p id="demo"></p>
+
+<script>
+function toCelsius(f) {
+  return (5/9) * (f-32);
+}
+
+let value = toCelsius();
+document.getElementById("demo").innerHTML = value;
+</script>
+
+</body>
+</html>
+23/09/2024, 09:17 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+<h1>JavaScript Functions</h1>
+
+<p>Outside myFunction() carName is undefined.</p>
+
+<p id="demo1"></p>
+<p id="demo2"></p>
+
+<script>
+let text = "Outside: " + typeof phoneName;
+document.getElementById("demo1").innerHTML = text;
+
+function myFunction() {
+  let phoneName = "iphone14pro";
+  let text = "Inside: " + typeof phoneName + " " + phoneName; 
+  document.getElementById("demo2").innerHTML = text;
+}
+
+myFunction();
+</script>
+
+</body>
+</html>
+23/09/2024, 09:19 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+<h1> Functions</h1>
+
+<p> calculation and returns </p>
+
+<p id="demo"></p>
+
+<script>
+function myFunction(a1, a2) {
+  return a1 * a2;
+}
+
+let result = myFunction(4, 3);
+document.getElementById("demo").innerHTML = result;
+</script>
+
+</body>
+</html>
+23/09/2024, 09:32 - +91 70090 06246: <Media omitted>
+23/09/2024, 10:10 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2> Alert</h2>
+
+<button onclick="myFunction()">Status</button>
+
+<script>
+function myFunction() {
+  alert("I am Busy due to office work");
+}
+</script>
+
+</body>
+</html>
+23/09/2024, 10:10 - +91 81980 94612: ALERT BOX
+23/09/2024, 10:10 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2> Confirm Box</h2>
+
+
+<button onclick="myFunction()">DECISION</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var txt;
+  if (confirm("Press a button!")) {
+    txt = "You pressed OK!";
+  } else {
+    txt = "You pressed Cancel!";
+  }
+  document.getElementById("demo").innerHTML = txt;
+}
+</script>
+
+</body>
+</html>
+23/09/2024, 10:10 - +91 81980 94612: CONFIRM BOX
+23/09/2024, 10:11 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2> Prompt</h2>
+
+<button onclick="myFunction()">NEXT</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  let text;
+  let person = prompt("Please enter your name:", "CSE 5TH");
+  if (person == null || person == "") {
+    text = "User cancelled the prompt.";
+  } else {
+    text = "Hello " + person + "! How are you today?";
+  }
+  document.getElementById("demo").innerHTML = text;
+}
+</script>
+
+</body>
+</html>
+23/09/2024, 10:11 - +91 81980 94612: PROMPT
+23/09/2024, 11:32 - +91 81980 94612: <Media omitted>
+23/09/2024, 11:32 - +91 81980 94612: <Media omitted>
+23/09/2024, 11:32 - +91 81980 94612: <Media omitted>
+23/09/2024, 11:32 - +91 81980 94612: <Media omitted>
+23/09/2024, 11:33 - +91 81980 94612: <Media omitted>
+24/09/2024, 14:40 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2>JS DOM</h2>
+
+<p id="intro">WEB LAB</p>
+<p>TECHNOLOGY<b>getElementsById</b> method.</p>
+
+<p id="demo"></p>
+
+<script>
+const element = document.getElementById("intro");
+
+document.getElementById("demo").innerHTML = 
+"LEARN HTML,CSS,JS: " + element.innerHTML;
+
+</script>
+
+</body>
+</html>
+24/09/2024, 14:40 - +91 81980 94612: <!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML DOM</h2>
+
+<p>CONTENT.</p>
+<p>HTML,BODY,HEAD <b>IMPORTANCE</b> method.</p>
+
+<p id="demo"></p>
+
+<script>
+const element = document.getElementsByTagName("p");
+
+document.getElementById("demo").innerHTML = 'LEARN FROM PRACTICE ' + element[0].innerHTML;
+
+</script>
+
+</body>
+</html>
+24/09/2024, 14:41 - +91 81980 94612: <html>
+<body>
+
+<p id="p1">CSE</p>
+
+<script>
+document.getElementById("p1").innerHTML = "B.TECH";
+</script>
+
+
+
+
+
+</body>
+</html>
+24/09/2024, 18:31 - +91 70090 06246: This message was deleted
+25/09/2024, 09:33 - +91 70090 06246: <Media omitted>
+27/09/2024, 18:09 - +91 81980 94612: Dear students, 
+Those who are having transportation problem, they can participate in the event online.
+27/09/2024, 18:09 - +91 81980 94612: Digital Explorer Club Presents: NextGen_ AI
+Department of Computer Science and Engineering, GNA University
+🗓 Date: 28th September 2024
+📍 Venue: GNA University
+
+The Digital Explorer Club from the Department of Computer Science and Engineering is excited to announce the AI Innovation Showcase—a debate event that provides a platform for engineers to present groundbreaking Artificial Intelligence project ideas with tangible benefits for society.
+
+Event Objective:
+This event aims to empower forward-thinking engineers by providing a stage to showcase their AI-driven projects, prototypes, and designs that not only push the boundaries of technology but also address real-world challenges. It’s a rallying call for innovators to unleash their potential and demonstrate how AI can create meaningful change in our world.
+
+Event Format:
+Time Limit: Each team is given 6 minutes to captivate the audience and impress esteemed judges.
+3 minutes for the project presentation (5-7 slides).
+3 minutes to demonstrate the working project or prototype.
+Participants per Team: 2 members.
+Rules:
+Each presentation is allocated a 3-minute slot for the presentation and 3 minutes for the dynamic working session.
+Presentations should contain 5-7 slides.
+Participants must bring their own equipment and materials necessary for project demonstrations.
+Judgment Criteria:
+Teams will be evaluated based on:
+
+Utility: How the project provides real-world benefits to society.
+Technology Utilized: The innovation and effectiveness of the AI technology used.
+Presentation Skills: Clarity, engagement, and overall presentation impact.
+This event is a unique opportunity to showcase your AI-powered innovations and make a tangible difference in solving societal challenges. Don't miss the chance to impress both your peers and industry leaders with your cutting-edge solutions!
+https://forms.gle/wZ8NDYQRrognV7Zs9
+
+
+For participation and further details :
+Davinder Singh Basra: 7009802309
+
+
+Digital Explorer Club
+Department of Computer Science and Engineering
+GNA University
+27/09/2024, 18:09 - +91 81980 94612: This is compulsory for AI students
+27/09/2024, 18:10 - +91 81980 94612: Ramandeep,jaskaran,mudabir and harjinder this is mandatory for you <This message was edited>
+27/09/2024, 18:17 - Harjinder GNA Singh: This message was deleted
+27/09/2024, 18:23 - Harjinder GNA Singh: Mam mam mam how can we
+27/09/2024, 18:25 - Harjinder GNA Singh: Ai (the only thing I know about ai is it's not ai it's just a machine algorithm with no inteligence)
+27/09/2024, 18:34 - +91 81980 94612: Its okey
+27/09/2024, 18:34 - +91 81980 94612: Order from Ai
+30/09/2024, 11:51 - +91 81980 94612: <Media omitted>
+30/09/2024, 11:51 - +91 81980 94612: <Media omitted>
+03/10/2024, 09:43 - Arsh GNA: <Media omitted>
+03/10/2024, 09:55 - ~ Dharmvir Singh pinned a message
+04/10/2024, 07:37 - Vaibhav CSE: Those who were absent yesterday,
+Kindly write your name and roll number
+04/10/2024, 07:37 - Vaibhav CSE: Vaibhav Manchanda 
+GU-2023-3587-L
+04/10/2024, 07:38 - Shailja A: Shailja Tarungal 
+Gu-2022-4349
+04/10/2024, 07:38 - Vaibhav CSE: Varun 
+GU-2023-3584-L
+04/10/2024, 07:39 - +91 78148 27833: Chetna 
+GU-2022-4221
+04/10/2024, 07:41 - Akshay kumar GNA: Akshay Kumar 
+GU-2022-4328
+04/10/2024, 08:10 - Lovenish 2nd GNA: Lovenish Gu-2023-3554-L
+04/10/2024, 08:17 - Vishal GNA: Vishal gupta 
+Gu-2022-4259
+04/10/2024, 08:18 - Abhishek Shrivastav CSE: Abhishek Srivastva 
+Gu-2022-4202
+04/10/2024, 08:18 - Rajinder Gna: Rajinder Kaur
+GU-2022-4231
+04/10/2024, 08:20 - Gourav CSE A: Gourav Kumar 
+GU-2022-4338
+04/10/2024, 08:31 - +91 99153 79548: Atish Chand
+GU-2022-4246
+04/10/2024, 08:53 - +91 94172 96229: Varundip Singh
+GU-2023-3584-L
+04/10/2024, 08:54 - +91 75894 95716: sourav kumar 
+GU-2022-4340
+04/10/2024, 09:21 - +91 81980 94612: <Media omitted>
+04/10/2024, 09:21 - +91 81980 94612: I have shared the list of students of NEP sarthi program. Students will get a link for the test 
+ their e-mails which they are supposed to attempt between 10 am to 4 pm
+04/10/2024, 09:41 - +91 97795 18033 joined from the community
+04/10/2024, 09:41 - +91 97795 18033: Karandeep Singh 
+Gu-2022-4237
+04/10/2024, 13:34 - +91 79867 43499: Everyone kindly reach ground floor...mam is waiting
+08/10/2024, 13:37 - +91 81980 94612: <Media omitted>
+08/10/2024, 13:37 - +91 81980 94612: <Media omitted>
+08/10/2024, 13:37 - +91 81980 94612: <Media omitted>
+08/10/2024, 13:37 - +91 81980 94612: <Media omitted>
+09/10/2024, 19:31 - +91 81980 94612: <Media omitted>
+14/10/2024, 09:22 - Shivam NCC joined from the community
+14/10/2024, 10:31 - +91 81980 94612: <Media omitted>
+30/10/2024, 10:49 - +91 81980 94612: <Media omitted>
+04/11/2024, 09:20 - +91 81980 94612: <Media omitted>
+04/11/2024, 09:21 - +91 81980 94612: for (let i = 0; i < books.length; i++) {
+        const title = books[i].getElementsByTagName("title")[0].childNodes[0].nodeValue;
+        const author = books[i].getElementsByTagName("author")[0].childNodes[0].nodeValue;
+        const year = books[i].getElementsByTagName("year")[0].childNodes[0].nodeValue;
+        const price = books[i].getElementsByTagName("price")[0].childNodes[0].nodeValue;
+        htmlOutput += "<p><strong>Title:</strong> " + title + "<br>";
+        htmlOutput += "<strong>Author:</strong> " + author + "<br>";
+        htmlOutput += "<strong>Year:</strong> " + year + "<br>";
+        htmlOutput += "<strong>Price:</strong> $" + price + "</p>";
+      }
+      document.getElementById("bookstore").innerHTML = htmlOutput;
+    }
+  </script>
+</head>
+<body onload="displayEmbeddedXML()">
+
+  <!-- XML embedded in the HTML document -->
+  <script type="text/xml" id="myXML">
+    <bookstore>
+      <book>
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <year>2018</year>
+        <price>45.00</price>
+      </book>
+      <book>
+        <title>Head First Java</title>
+        <author>Kathy Sierra, Bert Bates</author>
+        <year>2005</year>
+        <price>37.35</price>
+      </book>
+    </bookstore>
+  </script>
+
+  <div id="bookstore">
+    <h2>Loading bookstore data...</h2>
+  </div>
+
+</body>
+</html>
+04/11/2024, 09:26 - +91 81980 94612: <Media omitted>
+04/11/2024, 09:41 - Akshay kumar GNA: This message was deleted
+04/11/2024, 09:52 - +91 81980 94612: bookstore {
+    display: block;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling for individual books */
+  book {
+    display: block;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Styling for title */
+  title {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    color: #2c348f;
+    margin-bottom: 5px;
+  }
+  
+  /* Styling for author */
+  author {
+    display: block;
+    font-size: 16px;
+    color: #238429;
+  }
+  
+  /* Styling for year */
+  year {
+    display: block;
+    font-size: 14px;
+    color: #a22626;
+  }
+  
+  /* Styling for price */
+  price {
+    display: block;
+    font-size: 16px;
+    color: #e76f51;
+  }
+  <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="books.css"?>
+<bookstore>
+  <book>
+    <title>CG</title>
+    <author>Donald Hearn</author>
+    <year>2018</year>
+    <price>450</price>
+  </book>
+  <book>
+    <title>FLAT</title>
+    <author>KLP Mishra</author>
+    <year>2005</year>
+    <price>550</price>
+  </book>
+</bookstore>
+04/11/2024, 09:54 - +91 81980 94612: <Media omitted>
+05/11/2024, 12:48 - +91 78149 36026: Test on Monday 11/11/2024 on following Topics:
+XML: XML syntax rules, XML elements, XML attributes, creating an XML document, using element, declaration and
+examination, using XML in an HTML document, XML DTD displaying XML with CSS.
+05/11/2024, 12:48 - +91 78149 36026: Quiz wibb on the following Topics: 
+AJAX: Introduction, HTTP request, XMHttpRequest, AJAX Server Script, AJAX Database.
+Date will be shared later.
+05/11/2024, 14:57 - +91 77173 83414: <Media omitted>
+05/11/2024, 14:58 - +91 77173 83414: Time table for presentation <This message was edited>
+06/11/2024, 21:04 - Manish GNA Motta: This message was deleted
+10/11/2024, 14:32 - Harjinder GNA Singh: anyone who have completed the web tech practical ??
+10/11/2024, 14:35 - ਸੈਣੀ ❤️‍🔥: You deleted this message
+10/11/2024, 14:40 - Tushar Sharma GNA: <Media omitted>
+10/11/2024, 14:41 - Tushar Sharma GNA: @919646863809 Esme written part hai sara.
+11/11/2024, 09:57 - +91 81980 94612: <Media omitted>
+11/11/2024, 09:57 - +91 81980 94612: <Media omitted>
+11/11/2024, 10:02 - +91 81980 94612: <Media omitted>
+11/11/2024, 10:14 - +91 81980 94612: <Media omitted>
+11/11/2024, 10:59 - +91 98155 36671: Test will be tomorrow
+11/11/2024, 11:01 - Rahul A CSE: Gu-2022-4276 
+Rahul kumar
+12/11/2024, 14:12 - +91 81980 94612: *Problem 1.* Imagine you are tasked with creating an XML document for a bookstore inventory. The inventory must contain categories for each book (like "Fiction," "Non-Fiction," "Children's Books," etc.), with each book including information such as title, author, publication date, price, and availability status.
+
+Question: Create an XML document that represents this bookstore inventory structure. Ensure that the document adheres to XML syntax rules, includes necessary attributes (e.g., availability as an attribute), and organizes information with clear elements and sub-elements.
+
+
+*Problem 2.* Consider a library system that needs to standardize the format for storing book data. The library data should contain elements for each book, including the title, author, genre, publication date, ISBN, and availability status.
+
+Question: Create a Document Type Definition (DTD) for this library XML structure. Ensure that each book entry adheres to the defined DTD, setting up restrictions (e.g., ISBN must be exactly 13 characters, availability should only accept "Available" or "Unavailable" values). Provide sample XML data for one book and show how it validates against the DTD.
+12/11/2024, 14:22 - ਸੈਣੀ ❤️‍🔥: You deleted this message
+13/11/2024, 11:32 - +91 81980 94612: Vaibhav manchanda kindly meet me in faculty room
+20/11/2024, 09:06 - +91 81980 94612: <Media omitted>
+20/11/2024, 09:06 - +91 81980 94612: <Media omitted>
+20/11/2024, 09:07 - +91 81980 94612: <Media omitted>
+20/11/2024, 09:30 - +91 81980 94612: <Media omitted>
+26/11/2024, 14:12 - Gourav CSE A: <Media omitted>
+28/11/2024, 01:12 - Harjinder GNA Singh: <Media omitted>
+28/11/2024, 10:53 - Amarjeet Gna: <Media omitted>
+30/11/2024, 15:07 - Mudabir Zain GNA: https://github.com/mudabirkowsar/meesho_Clone
+30/11/2024, 20:58 - +91 73474 24648: @918198094612 gamezone25.tiiny.site 
+Web Technology Project 
+Hari Krishan GU-2022-4201
+Amarjit Patel GU-2022-4215
+30/11/2024, 21:03 - +91 73474 24648: <Media omitted>
+30/11/2024, 22:14 - +91 98155 36671: https://github.com/gurpreetkaur22/Product-Designer
+
+GU-2022-4245
+30/11/2024, 22:23 - +91 70090 06246: idhr send krne or zip @919646863809 nu ??
+01/12/2024, 15:45 - Vaibhav CSE: <Media omitted>
+01/12/2024, 15:46 - Shailja A: <Media omitted>
